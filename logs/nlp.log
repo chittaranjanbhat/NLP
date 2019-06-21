@@ -1,0 +1,7 @@
+'2019-06-20 14:31:42,970 - __main__ - INFO - 0011 - Training started...'
+'2019-06-20 14:53:13,897 - src.train.train_pipeline - INFO - 0017 - Training Initited on data resorces\data\test_generic.csv'
+'2019-06-20 14:53:49,284 - src.train.train_pipeline - INFO - 0017 - Training Initited on data resources\data\test_generic.csv'
+'2019-06-20 14:53:49,299 - src.train.train_pipeline - INFO - 0021 - Shape of data set (1734, 2)'
+'2019-06-20 14:53:49,301 - __main__ - INFO - 0014 - Training started...'
+'2019-06-20 14:55:32,833 - src.train.train_pipeline - INFO - 0017 - Training Initited on data resources\data\test_generic.csv'
+'2019-06-20 14:55:32,844 - src.train.train_pipeline - INFO - 0021 - Shape of data set (1734, 2)'
